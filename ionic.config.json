@@ -1,0 +1,7 @@
+{
+  "name": "imageupload",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
